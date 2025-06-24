@@ -14,6 +14,7 @@ This repository contains all raw data from Pedal Poll used in the analysis. The 
 3. 2021 census dissemination block boundary file: this is used to assign count locations to dissemination blocks to match with Spatial Access Measures data. The file can be found [here](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/files-fichiers/ldb_000a21a_e.zip).
 
 Index of files:
+- `20XX_data_dictionary.csv`: data dictionary for cleaned data files produced from `data_cleaning_2022.ipynb` and `data_cleaning.ipynb`. Because the 2022 data is formatted like the 2021 data and has a different format from 2023 and 2024, there are two data dictionaries. 
 - `20XX_hand_count.csv`: paper count data from 2022, 2023, and 2024.
 - `20240916_153200.csv`: raw CounterPoint app data from 2023, downloaded with [this query](https://superset.counterpointapp.org/superset/explore/p/Nk5eQpXYOZR/).
 - `20250624_142657.csv`: raw CounterPoint app data from 2024, downloaded with [this query](https://superset.counterpointapp.org/superset/dashboard/p/Bb80wKA0kl3/).
