@@ -1,0 +1,43 @@
+Community,Province /Territory,CounterPoint ID,CounterPoint Name,Location,Date (YYYY-MM-DD),Any additional location info,Team Name,"Manual Count: Start time 
+(YYYY-MM-DD HH:MM:SS)","Manual Count: End time
+(YYYY-MM-DD HH:MM:SS)",Cyclists,Pedestrians,Personal vehicles,Over sized vehicles,Any other vehicle notes,"CounterPoint App data: 
+Start time(s)
+(YYYY-MM-DD HH:MM:SS)","CounterPoint App data: 
+End time(s)
+(YYYY-MM-DD HH:MM:SS)","CounterPoint: 
+Cyclists","CounterPoint:
+Pedestrians","CounterPoint:
+Personal vehicles","CounterPoint:
+Over sized vehicles",CounterPoint VS manual count: Which is most complete?
+Edmonton,Alberta,5432,Ezio Faraone Park (NW Entrance),,2024-06-04,,,10:55:00,12:55:00,13,180,252,7,,,,,,,,Manual
+Regina,Saskachewan,6553,York @ 13th,,2024-06-04,Rain,,07:00:00,09:00:00,3,5,291,39,,,,,,,,Manual
+Ottawa,Ontario,6632,"Bearbrook Rd, N of Innes Rd",,2024-06-04,,,11:00:00,13:00:00,14,43,851,30,,,,,,,,Manual
+Red Deer,Aberta,5188,Piper Creek Bridge @ Southbrook,,2024-06-04,"Manual count date is May 4,2024 assuming this is an error",,14:00:00,16:00:00,32,39,149,24,,,,,,,,Manual
+Winnipeg,Manitoba ,5519,Selkirk Ave: Between Salter & Powers,,2024-06-05,"Rain, Windy (60km/h) and cloudy",,14:00:00,16:00:00,26,164,1233,95,,,,,,,,Manual
+Saskatoon,Saskachewan,2248,College Dr & Wiggins Ave,,2024-06-04,"Leslie and Irene Dube Health Sciences Library, did not count traffic going east to west ",,07:00:00,09:00:00,88,386,759,25,,,,,,,,Manual
+Saskatoon,Saskachewan,5523,Goldie Howe Bridge,,2024-06-04,,,11:00:00,13:00:00,28,35,2,,,,,,,,,Manual
+Calgary,Alberta,6497,21 Ave & 2nd St SW,,2024-06-04,,,11:00:00,13:00:00,56,312,790,16,,,,,,,,Manual
+Ottawa,Ontario,6632,"Bearbrook Rd, N of Innes Rd",,2024-06-08,,,12:00:00,14:00:00,50,33,845,16,,,,,,,,Manual
+Calgary,Alberta,6497,21 Ave & 2nd St SW,,2024-06-09,,,12:05:00,14:05:00,30,264,471,,,,,,,,,Manual
+Ottawa,Ontario,5401,Watts Creek west Enterance,,2024-06-09,Overcast Skies and hard rain during most of the last hour of observation,,11:56:00,14:01:00,48,13,,,,,,,,,,Manual
+Regina,Saskachewan,Not a location,14th Avenue & Pasqua Street in Regina.,,2024-06-04,,,10:00:00,13:00:00,5,11,635,34,,,,,,,,Manual
+Regina,Saskachewan,Not a location,14th Avenue & Pasqua Street in Regina.,,2024-06-04,,,07:00:00,09:00:00,11,10,869,39,,,,,,,,Manual
+Regina,Saskachewan,Not a location,14th Avenue & Pasqua Street in Regina.,,2024-06-08,,,16:00:00,18:00:00,7,13,678,6,,,,,,,,Manual
+Vancouver,British Columbia,5304,11th and Ontario,,2024-06-06,"Southbound Traffic, Counted with R",,14:00:00,16:00:00,133,45,1,0,,,,,,,,Manual
+Moncton,New Brunswick ,5352,St George-Bonacord,,2024-06-04,,,11:00:00,13:00:00,10,174,1514,55,,,,,,,,Manual
+London,Ontario,5888,Dundas St,,2024-06-04,between Richmond and Clarence,,07:00:00,09:00:00,63,232,341,22,,,,,,,,Manual
+Regina,Saskachewan,6476,Wascana Parkway & Lakeshore Dr,,2024-06-06,Rain and Wind on Tuesday,,16:00:00,18:00:00,35,42,3606,81,,,,,,,,Manual
+Regina,Saskachewan,6476,Wascana Parkway & Lakeshore Dr,,2024-06-08,Drivers are crazy,,12:00:00,14:00:00,48,34,2333,22,,,,,,,,Manual
+Vancouver,British Columbia,8231,Ontario St bike route between 10th & 11ath Ave,,2024-06-06,"Northbound traffic only, Counted with L",,14:03:00,16:03:00,134,32,,,,,,,,,,Manual
+Fredricton,New Brunswick ,6481,Nashwaak Trail,,2024-06-04,Between Union and Barker Street,,07:00:00,09:00:00,139,50,14,,,,,,,,,Manual
+Ottawa,Ontario,5341,Richmon West of Croydon,,2024-06-04,,,11:00:00,13:00:00,12,86,1236,87,,,,,,,,Manual
+Charlottetown,PEI,5303,Confederation Trail and Longworth Ave,,2024-06-04,,,16:00:00,18:00:00,54,167,2000,34,,,,,,,,Manual
+Montreal,Quebec,5608,St Laurent Blvd (north of Underpass),,2024-06-04,Bellechasse and St Laurent,,07:00:00,09:00:00,1495,319,1382,92,,,,,,,,Manual
+Waterloo,Ontario,5171,Watts Creek Pathway,,2024-06-04,,,,,,,,,,07:07:00,09:00:00,83,11,,,CounterPoint
+Edmonton,Alberta,6516,142 Street,,2024-06-04,"McKinnon Ravine, Construction",,,,,,,,,07:00:00,09:00:00,24,33,2,,CounterPoint
+Saskatoon,Saskachewan ,6401,14th Street,,2024-06-04,Preston Ave & 14th Street,,11:00:00,13:00:00,27,28,846,13,,,,,,,,Manual
+Waterloo,Ontario,5394,Laurel Trail - Westside of Webster,,2024-06-08,Potential closure?,,,,,,,,,12:43:00,14:23:00,42,66,0,0,CounterPoint
+Winnipeg,Manitobia,2068,Esplanade Riel: Middle,,2024-06-08,App Crash,,,,,,,,,12:00:00,14:00:00,146,451,3,,CounterPoint
+Ottawa,Ontario,6445,Experimental Farm Path: E of Merivale,,2024-06-04,App Crash,,,,,,,,,13:57:00,15:22:00,41,2,3,0,CounterPoint
+Waterloo,Ontario,5394,Laurel Trail - West side of Weber,,2024-06-04,App Crash,,,,,,,,,13:21:00,15:47:00,29,89,2319,60,CounterPoint
+Edmonton,Alberta,1289,83rd Ave 104th St,,2024-06-09,,,12:10:00,14:10:00,151,561,306,6,,,,,,,,Manual

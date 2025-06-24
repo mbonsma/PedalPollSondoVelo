@@ -1,0 +1,22 @@
+Community,Province /Territory,counterpoint_id,counterpoint_name,Time,date,"Manual Count: Start time 
+(YYYY-MM-DD HH:MM:SS)","Manual Count: End time
+(YYYY-MM-DD HH:MM:SS)",easy_bike_total,easy_pedestrian_total,easy_personal_vehicle_total,easy_oversized_total
+Brampton,ON,6390,Fletchers Creek Rec Trail south of Sandalwood,11AM-1PM,2023-06-13,2023-06-13 11:00:00,2023-06-13 13:00:00,15,39,,
+Brampton,ON,6390,Fletchers Creek Rec Trail south of Sandalwood,2-4PM,2023-06-13,2023-06-13 14:00:00,2023-06-13 16:00:00,11,41,,
+Brampton,ON,6390,Fletchers Creek Rec Trail south of Sandalwood,4-6PM,2023-06-13,2023-06-13 16:00:00,2023-06-13 18:00:00,6,42,1,
+Brampton,ON,6390,Fletchers Creek Rec Trail south of Sandalwood,12-2 PM (Sat),2023-06-17,2023-06-17 12:00:00,2023-06-17 14:00:00,18,43,2,
+Brampton,ON,6374,Finacial Dr @ Stonecrop,11-1 PM,2023-06-13,2023-06-13 11:00:00,2023-06-13 13:00:00,4,9,503,
+Brampton,ON,6374,Finacial Dr @ Stonecrop,2-4 PM,2023-06-13,2023-06-13 14:00:00,2023-06-13 16:00:00,2,18,769,33
+Brampton,ON,6374,Finacial Dr @ Stonecrop,4-6 PM,2023-06-13,2023-06-13 16:00:00,2023-06-13 18:00:00,7,20,820,28
+Brampton,ON,6374,Finacial Dr @ Stonecrop,12-2 PM (Sat),2023-06-17,2023-06-17 12:00:00,2023-06-17 14:00:00,16,8,703,
+Brampton,ON,6387,Ching Trail N of Central Park,11-1 PM,2023-06-13,2023-06-13 11:00:00,2023-06-13 13:00:00,9,68,2,
+Brampton,ON,6378,Vodden W of Howden,7-9 AM,2023-06-13,2023-06-13 07:00:00,2023-06-13 09:00:00,6,10,50,5
+Brampton,ON,6378,Vodden W of Howden,11-1 PM,2023-06-13,2023-06-13 11:00:00,2023-06-13 13:00:00,2,21,223,12
+Brampton,ON,6378,Vodden W of Howden,4-6 PM,2023-06-13,2023-06-13 16:00:00,2023-06-13 18:00:00,17,42,2308,46
+Brampton,ON,6389,Etobicoke Creek Trail @ Peel Village Golf Course,7-9 AM,2023-06-13,2023-06-13 07:00:00,2023-06-13 07:00:00,3,20,1,
+Brampton,ON,6389,Etobicoke Creek Trail @ Peel Village Golf Course,12-2 PM (Sat),2023-06-17,2023-06-17 12:00:00,2023-06-17 14:00:00,19,4,,
+Brampton,ON,6393,"Fernforrest Dr, S of Countryside Dr",7-9 AM,2023-06-13,2023-06-13 07:00:00,2023-06-13 09:00:00,12,60,515,40
+Brampton,ON,6393,"Fernforrest Dr, S of Countryside Dr",2-4 PM,2023-06-13,2023-06-13 14:00:00,2023-06-13 16:00:00,8,61,447,30
+Brampton,ON,6393,"Fernforrest Dr, S of Countryside Dr",4-6 PM,2023-06-13,2023-06-13 16:00:00,2023-06-13 18:00:00,3,49,379,21
+Brampton,ON,6393,"Fernforrest Dr, S of Countryside Dr",12-2 PM (Sat),2023-06-17,2023-06-17 12:00:00,2023-06-17 14:00:00,8,16,348,11
+Brampton,ON,6379,Cottrelle Blvd @ McVean Dr,11-1 PM,2023-06-13,2023-06-13 11:00:00,2023-06-13 13:00:00,3,28,963,49
