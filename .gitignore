@@ -1,3 +1,4 @@
 *.pdf
-Admin/
-VCB PPSV *
+.ipynb_checkpoints/
+__pycache__/
+
