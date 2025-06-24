@@ -1,0 +1,161 @@
+DGUID,GEO_LEVEL,GEO_NAME,cma_population,cma_pop_density_square_km
+2021S0503001,Census metropolitan area,St. John's,212579.0,228.2
+2021S0504010,Census agglomeration,Grand Falls-Windsor,13853.0,252.6
+2021S0504011,Census agglomeration,Gander,13414.0,5.6
+2021S0504015,Census agglomeration,Corner Brook,29762.0,26.5
+2021S0504105,Census agglomeration,Charlottetown,78858.0,70.9
+2021S0504110,Census agglomeration,Summerside,18157.0,145.1
+2021S0503205,Census metropolitan area,Halifax,465703.0,64.0
+2021S0504210,Census agglomeration,Kentville,26929.0,44.4
+2021S0504215,Census agglomeration,Truro,46157.0,16.9
+2021S0504220,Census agglomeration,New Glasgow,34397.0,16.6
+2021S0504225,Census agglomeration,Cape Breton,98318.0,40.0
+2021S0503305,Census metropolitan area,Moncton,157717.0,61.5
+2021S0503310,Census metropolitan area,Saint John,130613.0,37.3
+2021S0503320,Census metropolitan area,Fredericton,108610.0,18.1
+2021S0504328,Census agglomeration,Bathurst,31387.0,14.9
+2021S0504329,Census agglomeration,Miramichi,27593.0,3.6
+2021S0504330,Census agglomeration,Campbellton,13330.0,8.7
+2021S050613330,Census agglomeration part,Campbellton (New Brunswick part),11986.0,11.0
+2021S050624330,Census agglomeration part,Campbellton (Quebec part),1344.0,3.1
+2021S0504335,Census agglomeration,Edmundston,22144.0,14.0
+2021S0504403,Census agglomeration,Matane,18474.0,21.3
+2021S0504404,Census agglomeration,Rimouski,53944.0,69.8
+2021S0504405,Census agglomeration,Rivière-du-Loup,30025.0,55.3
+2021S0504406,Census agglomeration,Baie-Comeau,26643.0,39.0
+2021S0503408,Census metropolitan area,Saguenay,161567.0,51.6
+2021S0504410,Census agglomeration,Alma,30331.0,155.6
+2021S0504411,Census agglomeration,Dolbeau-Mistassini,15306.0,23.6
+2021S0504412,Census agglomeration,Sept-Îles,27729.0,15.8
+2021S0503421,Census metropolitan area,Québec,839311.0,239.8
+2021S0504423,Census agglomeration,Sainte-Marie,13134.0,122.1
+2021S0504428,Census agglomeration,Saint-Georges,34833.0,95.4
+2021S0504430,Census agglomeration,Thetford Mines,28287.0,69.7
+2021S0503433,Census metropolitan area,Sherbrooke,227398.0,156.0
+2021S0504437,Census agglomeration,Cowansville,15234.0,325.0
+2021S0504440,Census agglomeration,Victoriaville,52936.0,140.0
+2021S0503442,Census metropolitan area,Trois-Rivières,161489.0,155.5
+2021S0504444,Census agglomeration,Shawinigan,49620.0,68.0
+2021S0503447,Census metropolitan area,Drummondville,101610.0,92.8
+2021S0504450,Census agglomeration,Granby,90833.0,183.8
+2021S0504452,Census agglomeration,Saint-Hyacinthe,59980.0,231.2
+2021S0504454,Census agglomeration,Sorel-Tracy,41934.0,246.2
+2021S0504456,Census agglomeration,Joliette,52706.0,485.0
+2021S0503462,Census metropolitan area,Montréal,4291732.0,919.0
+2021S0504465,Census agglomeration,Salaberry-de-Valleyfield,42787.0,394.1
+2021S0504467,Census agglomeration,Sainte-Agathe-des-Monts,19892.0,94.3
+2021S0504468,Census agglomeration,Lachute,14100.0,129.8
+2021S0504480,Census agglomeration,Val-d'Or,34037.0,9.6
+2021S0504481,Census agglomeration,Amos,18873.0,8.2
+2021S0504485,Census agglomeration,Rouyn-Noranda,42313.0,7.1
+2021S0504501,Census agglomeration,Cornwall,61415.0,120.6
+2021S0504502,Census agglomeration,Hawkesbury,12010.0,930.0
+2021S050624502,Census agglomeration part,Hawkesbury (Quebec part),1816.0,644.6
+2021S050635502,Census agglomeration part,Hawkesbury (Ontario part),10194.0,1009.7
+2021S0503505,Census metropolitan area,Ottawa - Gatineau,1488307.0,185.0
+2021S050524505,Census metropolitan area part,Ottawa - Gatineau (Quebec part),353293.0,104.5
+2021S050535505,Census metropolitan area part,Ottawa - Gatineau (Ontario part),1135014.0,243.3
+2021S0504512,Census agglomeration,Brockville,31661.0,54.9
+2021S0504515,Census agglomeration,Pembroke,23814.0,43.0
+2021S0504516,Census agglomeration,Petawawa,18160.0,110.3
+2021S0503521,Census metropolitan area,Kingston,172546.0,89.9
+2021S0503522,Census metropolitan area,Belleville - Quinte West,111184.0,83.1
+2021S0504527,Census agglomeration,Cobourg,20519.0,915.7
+2021S0504528,Census agglomeration,Port Hope,17294.0,62.0
+2021S0503529,Census metropolitan area,Peterborough,128624.0,85.3
+2021S0504530,Census agglomeration,Kawartha Lakes,79247.0,26.1
+2021S0504531,Census agglomeration,Centre Wellington,31093.0,75.9
+2021S0503532,Census metropolitan area,Oshawa,415311.0,459.8
+2021S0504533,Census agglomeration,Ingersoll,13693.0,1075.3
+2021S0503535,Census metropolitan area,Toronto,6202225.0,1050.7
+2021S0503537,Census metropolitan area,Hamilton,785184.0,571.8
+2021S0503539,Census metropolitan area,St. Catharines - Niagara,433604.0,310.4
+2021S0503541,Census metropolitan area,Kitchener - Cambridge - Waterloo,575847.0,527.2
+2021S0503543,Census metropolitan area,Brantford,144162.0,134.2
+2021S0504544,Census agglomeration,Woodstock,46705.0,827.2
+2021S0504546,Census agglomeration,Tillsonburg,18615.0,838.6
+2021S0504547,Census agglomeration,Norfolk,67490.0,42.2
+2021S0503550,Census metropolitan area,Guelph,165588.0,278.3
+2021S0504553,Census agglomeration,Stratford,33232.0,1107.0
+2021S0503555,Census metropolitan area,London,543551.0,204.2
+2021S0504556,Census agglomeration,Chatham-Kent,104316.0,42.3
+2021S0503559,Census metropolitan area,Windsor,422630.0,234.4
+2021S0504562,Census agglomeration,Sarnia,97592.0,87.4
+2021S0504563,Census agglomeration,Essa,22970.0,82.1
+2021S0504565,Census agglomeration,Wasaga Beach,24862.0,433.0
+2021S0504566,Census agglomeration,Owen Sound,32712.0,52.4
+2021S0504567,Census agglomeration,Collingwood,24811.0,748.3
+2021S0503568,Census metropolitan area,Barrie,212856.0,237.2
+2021S0504569,Census agglomeration,Orillia,33411.0,1171.1
+2021S0504571,Census agglomeration,Midland,27894.0,459.1
+2021S0504575,Census agglomeration,North Bay,71736.0,13.5
+2021S0503580,Census metropolitan area,Greater Sudbury / Grand Sudbury,170605.0,40.7
+2021S0504582,Census agglomeration,Elliot Lake,11372.0,16.3
+2021S0504586,Census agglomeration,Timmins,41145.0,13.9
+2021S0504590,Census agglomeration,Sault Ste. Marie,76731.0,95.6
+2021S0503595,Census metropolitan area,Thunder Bay,123258.0,48.3
+2021S0504598,Census agglomeration,Kenora,14967.0,70.7
+2021S0503602,Census metropolitan area,Winnipeg,834678.0,157.9
+2021S0504603,Census agglomeration,Winkler,32655.0,37.4
+2021S0504605,Census agglomeration,Steinbach,17806.0,474.1
+2021S0504607,Census agglomeration,Portage la Prairie,13270.0,536.8
+2021S0504610,Census agglomeration,Brandon,54268.0,44.0
+2021S0504640,Census agglomeration,Thompson,13035.0,784.3
+2021S0503705,Census metropolitan area,Regina,249217.0,57.6
+2021S0504710,Census agglomeration,Yorkton,19859.0,12.2
+2021S0504715,Census agglomeration,Moose Jaw,34872.0,41.3
+2021S0504720,Census agglomeration,Swift Current,18745.0,16.6
+2021S0503725,Census metropolitan area,Saskatoon,317480.0,54.1
+2021S0504735,Census agglomeration,North Battleford,19374.0,17.3
+2021S0504745,Census agglomeration,Prince Albert,45718.0,18.0
+2021S0504750,Census agglomeration,Estevan,12798.0,16.1
+2021S0504755,Census agglomeration,Weyburn,12247.0,14.8
+2021S0504805,Census agglomeration,Medicine Hat,76376.0,5.8
+2021S0504806,Census agglomeration,Brooks,14924.0,819.8
+2021S0503810,Census metropolitan area,Lethbridge,123847.0,41.9
+2021S0504820,Census agglomeration,Okotoks,30405.0,788.7
+2021S0504821,Census agglomeration,High River,14324.0,645.4
+2021S0503825,Census metropolitan area,Calgary,1481806.0,290.6
+2021S0504826,Census agglomeration,Strathmore,14339.0,531.6
+2021S0504828,Census agglomeration,Canmore,15990.0,233.5
+2021S0503830,Census metropolitan area,Red Deer,100844.0,966.5
+2021S0504831,Census agglomeration,Sylvan Lake,16514.0,680.9
+2021S0504832,Census agglomeration,Lacombe,13396.0,650.7
+2021S0504833,Census agglomeration,Camrose,18772.0,450.5
+2021S0503835,Census metropolitan area,Edmonton,1418118.0,150.6
+2021S0504840,Census agglomeration,Lloydminster,36508.0,18.4
+2021S050647840,Census agglomeration part,Lloydminster (Saskatchewan part),16769.0,8.6
+2021S050648840,Census agglomeration part,Lloydminster (Alberta part),19739.0,823.1
+2021S0504850,Census agglomeration,Grande Prairie,64141.0,483.3
+2021S0504860,Census agglomeration,Wood Buffalo,73837.0,1.2
+2021S0504865,Census agglomeration,Wetaskiwin,12594.0,671.6
+2021S0504905,Census agglomeration,Cranbrook,27040.0,5.9
+2021S0504907,Census agglomeration,Nelson,19119.0,15.6
+2021S0504910,Census agglomeration,Trail,14268.0,51.1
+2021S0504913,Census agglomeration,Penticton,47380.0,27.3
+2021S0503915,Census metropolitan area,Kelowna,222162.0,76.5
+2021S0504918,Census agglomeration,Vernon,67086.0,64.4
+2021S0504920,Census agglomeration,Salmon Arm,19705.0,119.1
+2021S0503925,Census metropolitan area,Kamloops,114142.0,20.2
+2021S0503930,Census metropolitan area,Chilliwack,113767.0,78.8
+2021S0503932,Census metropolitan area,Abbotsford - Mission,195726.0,322.6
+2021S0503933,Census metropolitan area,Vancouver,2642825.0,918.0
+2021S0504934,Census agglomeration,Squamish,24232.0,229.8
+2021S0503935,Census metropolitan area,Victoria,397237.0,571.3
+2021S0504936,Census agglomeration,Ladysmith,15501.0,37.6
+2021S0504937,Census agglomeration,Duncan,47582.0,127.5
+2021S0503938,Census metropolitan area,Nanaimo,115459.0,90.3
+2021S0504939,Census agglomeration,Parksville,31054.0,379.6
+2021S0504940,Census agglomeration,Port Alberni,25786.0,15.8
+2021S0504943,Census agglomeration,Courtenay,63282.0,101.4
+2021S0504944,Census agglomeration,Campbell River,40704.0,23.5
+2021S0504945,Census agglomeration,Powell River,17825.0,22.3
+2021S0504950,Census agglomeration,Williams Lake,23608.0,1.9
+2021S0504952,Census agglomeration,Quesnel,23113.0,1.1
+2021S0504955,Census agglomeration,Prince Rupert,13442.0,4.1
+2021S0504965,Census agglomeration,Terrace,19606.0,2.0
+2021S0504970,Census agglomeration,Prince George,89490.0,5.1
+2021S0504975,Census agglomeration,Dawson Creek,17878.0,1.5
+2021S0504977,Census agglomeration,Fort St. John,28729.0,46.5
+2021S0504990,Census agglomeration,Whitehorse,31913.0,3.8
+2021S0504995,Census agglomeration,Yellowknife,20340.0,196.8
