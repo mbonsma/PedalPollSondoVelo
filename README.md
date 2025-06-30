@@ -2,6 +2,8 @@
 
 This repo contains the code and documentation for analysis of the 2022-2024 Pedal Poll / Sondo Vélo data. 
 
+A preprint of 2021-2024 analysis paper can be found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331432).
+
 The 2021 results can be found [here](https://velocanadabikes.org/pedalpoll/pedal-poll-sondo-velo-2021-results/) and the associated academic paper is [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4000804).
 
 ## Cleaning and analysis steps:
@@ -26,6 +28,8 @@ Index of files:
 - `hand_count_2022_unique_counterpoints_filled.csv`: 2022 paper count data with CounterPoint IDs manually filled in where possible.
 
 ### Scripts
+
+The following scripts run in this order reproduce the analysis and figures for the [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331432).
 
 1. `data_cleaning_2022.ipynb` and `data_cleaning.ipynb`: scripts to clean data for 2022 and 2023/2024.
 2. `counterpoint_location_grouping.ipynb`: group CounterPoint pins within 100 m to better compare counts over multiple years.
