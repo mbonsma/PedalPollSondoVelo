@@ -22,6 +22,7 @@ Index of files:
 - `20250624_142657.csv`: raw CounterPoint app data from 2024, downloaded with [this query](https://superset.counterpointapp.org/superset/dashboard/p/Bb80wKA0kl3/).
 - `CounterPoint Data Explorer - Bicycle Demographics Submission Data_Page 1_Table.csv`: raw CounterPoint app data from 2022, downloaded with the now-replaced CounterPoint data explorer.
 - `Official Count Locations IDs.csv`: list of official 2021 focus community count sites, used only to preferentially label grouped CounterPoint IDs where possible.
+- `counterpoint_official_sites_multiyear_counts-CanBICS-v2_sheet1.csv`: unique counterpoints classified after 2023 count.
 - `PP_CounterPoints_Cycle_Facilities_FULL_02JAN2025.csv`: list of unique CounterPoints and classified Can-BICS infrastructure in each count year.
 - `brampton_2023_paper.csv`: additional 2023 paper count data from Brampton.
 - `cma_population_2021.csv`: uPsed to determine community population sizes for Discussion. Processed file created from 2021 census data downloaded on 2025-03-03 from https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/index.cfm?Lang=E
@@ -33,6 +34,8 @@ The following scripts run in this order reproduce the analysis and figures for t
 
 1. `data_cleaning_2022.ipynb` and `data_cleaning.ipynb`: scripts to clean data for 2022 and 2023/2024.
 2. `counterpoint_location_grouping.ipynb`: group CounterPoint pins within 100 m to better compare counts over multiple years.
-3. `analysis_processing.ipynb`: load all years of cleaned datasets and group counts by count session, calculate bikes per hour.
-4. `regression_model.ipynb`: add Spatial Access Measures data and perform regression.
-5. `paper_figures.ipynb`: produce figures and tables for paper.
+3. `Can-BICS_classification.ipynb`: sort CounterPoint locations for classification by hand with Can-BICS.
+4. `analysis_processing.ipynb`: load all years of cleaned datasets and group counts by count session, calculate bikes per hour.
+5. `regression_model.ipynb`: add Spatial Access Measures data and process data for regression model.
+6. `regression.R`: run regression model and calculate confidence intervals.
+7. `paper_figures.ipynb`: produce figures and tables for paper.
