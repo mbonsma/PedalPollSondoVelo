@@ -1,8 +1,8 @@
 # Pedal Poll / Sondo Vélo 2021-2024 analysis
 
-This repo contains the code and documentation for analysis of the 2022-2024 Pedal Poll / Sondo Vélo data. 
+This repo contains the code and documentation for analysis of the 2022-2024 Pedal Poll / Sondo Vélo data. If you're looking for the code to generate infographics and interactive tables, go to [this repo instead!](https://github.com/mbonsma/PedalPollSondoVelo_infographics)
 
-A preprint of 2021-2024 analysis paper can be found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331432).
+The 2021-2024 analysis paper can be found [here](https://www.sciencedirect.com/science/article/pii/S2950105925000440).
 
 The 2021 results can be found [here](https://velocanadabikes.org/pedalpoll/pedal-poll-sondo-velo-2021-results/) and the associated academic paper is [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4000804).
 
